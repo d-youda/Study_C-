@@ -1,0 +1,15 @@
+C:\Users\fasol\Desktop\youda\2.Tooth_data\4. C#\Study_C#\source\repos\StudemtManagement\bin\Debug\net8.0\StudemtManagement.exe
+C:\Users\fasol\Desktop\youda\2.Tooth_data\4. C#\Study_C#\source\repos\StudemtManagement\bin\Debug\net8.0\StudemtManagement.deps.json
+C:\Users\fasol\Desktop\youda\2.Tooth_data\4. C#\Study_C#\source\repos\StudemtManagement\bin\Debug\net8.0\StudemtManagement.runtimeconfig.json
+C:\Users\fasol\Desktop\youda\2.Tooth_data\4. C#\Study_C#\source\repos\StudemtManagement\bin\Debug\net8.0\StudemtManagement.dll
+C:\Users\fasol\Desktop\youda\2.Tooth_data\4. C#\Study_C#\source\repos\StudemtManagement\bin\Debug\net8.0\StudemtManagement.pdb
+C:\Users\fasol\Desktop\youda\2.Tooth_data\4. C#\Study_C#\source\repos\StudemtManagement\obj\Debug\net8.0\StudemtManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fasol\Desktop\youda\2.Tooth_data\4. C#\Study_C#\source\repos\StudemtManagement\obj\Debug\net8.0\StudemtManagement.AssemblyInfoInputs.cache
+C:\Users\fasol\Desktop\youda\2.Tooth_data\4. C#\Study_C#\source\repos\StudemtManagement\obj\Debug\net8.0\StudemtManagement.AssemblyInfo.cs
+C:\Users\fasol\Desktop\youda\2.Tooth_data\4. C#\Study_C#\source\repos\StudemtManagement\obj\Debug\net8.0\StudemtManagement.csproj.CoreCompileInputs.cache
+C:\Users\fasol\Desktop\youda\2.Tooth_data\4. C#\Study_C#\source\repos\StudemtManagement\obj\Debug\net8.0\StudemtManagement.sourcelink.json
+C:\Users\fasol\Desktop\youda\2.Tooth_data\4. C#\Study_C#\source\repos\StudemtManagement\obj\Debug\net8.0\StudemtManagement.dll
+C:\Users\fasol\Desktop\youda\2.Tooth_data\4. C#\Study_C#\source\repos\StudemtManagement\obj\Debug\net8.0\refint\StudemtManagement.dll
+C:\Users\fasol\Desktop\youda\2.Tooth_data\4. C#\Study_C#\source\repos\StudemtManagement\obj\Debug\net8.0\StudemtManagement.pdb
+C:\Users\fasol\Desktop\youda\2.Tooth_data\4. C#\Study_C#\source\repos\StudemtManagement\obj\Debug\net8.0\StudemtManagement.genruntimeconfig.cache
+C:\Users\fasol\Desktop\youda\2.Tooth_data\4. C#\Study_C#\source\repos\StudemtManagement\obj\Debug\net8.0\ref\StudemtManagement.dll
