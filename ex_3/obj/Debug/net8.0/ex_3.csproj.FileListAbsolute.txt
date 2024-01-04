@@ -1,0 +1,14 @@
+C:\Users\fasol\source\repos\ex_3\bin\Debug\net8.0\ex_3.exe
+C:\Users\fasol\source\repos\ex_3\bin\Debug\net8.0\ex_3.deps.json
+C:\Users\fasol\source\repos\ex_3\bin\Debug\net8.0\ex_3.runtimeconfig.json
+C:\Users\fasol\source\repos\ex_3\bin\Debug\net8.0\ex_3.dll
+C:\Users\fasol\source\repos\ex_3\bin\Debug\net8.0\ex_3.pdb
+C:\Users\fasol\source\repos\ex_3\obj\Debug\net8.0\ex_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fasol\source\repos\ex_3\obj\Debug\net8.0\ex_3.AssemblyInfoInputs.cache
+C:\Users\fasol\source\repos\ex_3\obj\Debug\net8.0\ex_3.AssemblyInfo.cs
+C:\Users\fasol\source\repos\ex_3\obj\Debug\net8.0\ex_3.csproj.CoreCompileInputs.cache
+C:\Users\fasol\source\repos\ex_3\obj\Debug\net8.0\ex_3.dll
+C:\Users\fasol\source\repos\ex_3\obj\Debug\net8.0\refint\ex_3.dll
+C:\Users\fasol\source\repos\ex_3\obj\Debug\net8.0\ex_3.pdb
+C:\Users\fasol\source\repos\ex_3\obj\Debug\net8.0\ex_3.genruntimeconfig.cache
+C:\Users\fasol\source\repos\ex_3\obj\Debug\net8.0\ref\ex_3.dll

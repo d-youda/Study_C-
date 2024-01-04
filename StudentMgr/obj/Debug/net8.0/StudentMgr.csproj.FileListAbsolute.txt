@@ -1,0 +1,28 @@
+C:\Users\fasol\source\repos\StudentMgr\bin\Debug\net8.0\StudentMgr.exe
+C:\Users\fasol\source\repos\StudentMgr\bin\Debug\net8.0\StudentMgr.deps.json
+C:\Users\fasol\source\repos\StudentMgr\bin\Debug\net8.0\StudentMgr.runtimeconfig.json
+C:\Users\fasol\source\repos\StudentMgr\bin\Debug\net8.0\StudentMgr.dll
+C:\Users\fasol\source\repos\StudentMgr\bin\Debug\net8.0\StudentMgr.pdb
+C:\Users\fasol\source\repos\StudentMgr\obj\Debug\net8.0\StudentMgr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fasol\source\repos\StudentMgr\obj\Debug\net8.0\StudentMgr.AssemblyInfoInputs.cache
+C:\Users\fasol\source\repos\StudentMgr\obj\Debug\net8.0\StudentMgr.AssemblyInfo.cs
+C:\Users\fasol\source\repos\StudentMgr\obj\Debug\net8.0\StudentMgr.csproj.CoreCompileInputs.cache
+C:\Users\fasol\source\repos\StudentMgr\obj\Debug\net8.0\StudentMgr.dll
+C:\Users\fasol\source\repos\StudentMgr\obj\Debug\net8.0\refint\StudentMgr.dll
+C:\Users\fasol\source\repos\StudentMgr\obj\Debug\net8.0\StudentMgr.pdb
+C:\Users\fasol\source\repos\StudentMgr\obj\Debug\net8.0\StudentMgr.genruntimeconfig.cache
+C:\Users\fasol\source\repos\StudentMgr\obj\Debug\net8.0\ref\StudentMgr.dll
+C:\Users\fasol\Desktop\youda\2.Tooth_data\4. C#\Study_C#\source\repos\StudentMgr\obj\Debug\net8.0\StudentMgr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fasol\Desktop\youda\2.Tooth_data\4. C#\Study_C#\source\repos\StudentMgr\obj\Debug\net8.0\StudentMgr.AssemblyInfoInputs.cache
+C:\Users\fasol\Desktop\youda\2.Tooth_data\4. C#\Study_C#\source\repos\StudentMgr\obj\Debug\net8.0\StudentMgr.AssemblyInfo.cs
+C:\Users\fasol\Desktop\youda\2.Tooth_data\4. C#\Study_C#\source\repos\StudentMgr\obj\Debug\net8.0\StudentMgr.csproj.CoreCompileInputs.cache
+C:\Users\fasol\Desktop\youda\2.Tooth_data\4. C#\Study_C#\source\repos\StudentMgr\obj\Debug\net8.0\StudentMgr.dll
+C:\Users\fasol\Desktop\youda\2.Tooth_data\4. C#\Study_C#\source\repos\StudentMgr\obj\Debug\net8.0\refint\StudentMgr.dll
+C:\Users\fasol\Desktop\youda\2.Tooth_data\4. C#\Study_C#\source\repos\StudentMgr\obj\Debug\net8.0\StudentMgr.pdb
+C:\Users\fasol\Desktop\youda\2.Tooth_data\4. C#\Study_C#\source\repos\StudentMgr\bin\Debug\net8.0\StudentMgr.exe
+C:\Users\fasol\Desktop\youda\2.Tooth_data\4. C#\Study_C#\source\repos\StudentMgr\bin\Debug\net8.0\StudentMgr.deps.json
+C:\Users\fasol\Desktop\youda\2.Tooth_data\4. C#\Study_C#\source\repos\StudentMgr\bin\Debug\net8.0\StudentMgr.runtimeconfig.json
+C:\Users\fasol\Desktop\youda\2.Tooth_data\4. C#\Study_C#\source\repos\StudentMgr\bin\Debug\net8.0\StudentMgr.dll
+C:\Users\fasol\Desktop\youda\2.Tooth_data\4. C#\Study_C#\source\repos\StudentMgr\bin\Debug\net8.0\StudentMgr.pdb
+C:\Users\fasol\Desktop\youda\2.Tooth_data\4. C#\Study_C#\source\repos\StudentMgr\obj\Debug\net8.0\StudentMgr.genruntimeconfig.cache
+C:\Users\fasol\Desktop\youda\2.Tooth_data\4. C#\Study_C#\source\repos\StudentMgr\obj\Debug\net8.0\ref\StudentMgr.dll
