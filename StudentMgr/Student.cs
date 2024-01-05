@@ -13,7 +13,7 @@ namespace dhyu
     /// </summary>
     public class Student//바깥에서 인스턴스로 만들어 쓸 수 있도록 함
     {
-        //private string name;
+        private string name;
         private string address;
         private int age;
         #region 생성자

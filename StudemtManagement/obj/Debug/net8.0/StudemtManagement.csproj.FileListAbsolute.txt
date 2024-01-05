@@ -13,3 +13,10 @@ C:\Users\fasol\Desktop\youda\2.Tooth_data\4. C#\Study_C#\source\repos\StudemtMan
 C:\Users\fasol\Desktop\youda\2.Tooth_data\4. C#\Study_C#\source\repos\StudemtManagement\obj\Debug\net8.0\StudemtManagement.pdb
 C:\Users\fasol\Desktop\youda\2.Tooth_data\4. C#\Study_C#\source\repos\StudemtManagement\obj\Debug\net8.0\StudemtManagement.genruntimeconfig.cache
 C:\Users\fasol\Desktop\youda\2.Tooth_data\4. C#\Study_C#\source\repos\StudemtManagement\obj\Debug\net8.0\ref\StudemtManagement.dll
+C:\Users\fasol\Desktop\youda\2.Tooth_data\4. C#\Study_C#\source\repos\StudemtManagement\bin\Debug\net8.0\StudentMgr.deps.json
+C:\Users\fasol\Desktop\youda\2.Tooth_data\4. C#\Study_C#\source\repos\StudemtManagement\bin\Debug\net8.0\StudentMgr.runtimeconfig.json
+C:\Users\fasol\Desktop\youda\2.Tooth_data\4. C#\Study_C#\source\repos\StudemtManagement\bin\Debug\net8.0\StudentMgr.exe
+C:\Users\fasol\Desktop\youda\2.Tooth_data\4. C#\Study_C#\source\repos\StudemtManagement\bin\Debug\net8.0\StudentMgr.dll
+C:\Users\fasol\Desktop\youda\2.Tooth_data\4. C#\Study_C#\source\repos\StudemtManagement\bin\Debug\net8.0\StudentMgr.pdb
+C:\Users\fasol\Desktop\youda\2.Tooth_data\4. C#\Study_C#\source\repos\StudemtManagement\obj\Debug\net8.0\StudemtManagement.csproj.AssemblyReference.cache
+C:\Users\fasol\Desktop\youda\2.Tooth_data\4. C#\Study_C#\source\repos\StudemtManagement\obj\Debug\net8.0\StudemtManagement.csproj.CopyComplete

@@ -1,0 +1,15 @@
+C:\Users\fasol\Desktop\youda\2.Tooth_data\4. C#\Study_C#\source\repos\ControlStatement\bin\Debug\net8.0\ControlStatement.exe
+C:\Users\fasol\Desktop\youda\2.Tooth_data\4. C#\Study_C#\source\repos\ControlStatement\bin\Debug\net8.0\ControlStatement.deps.json
+C:\Users\fasol\Desktop\youda\2.Tooth_data\4. C#\Study_C#\source\repos\ControlStatement\bin\Debug\net8.0\ControlStatement.runtimeconfig.json
+C:\Users\fasol\Desktop\youda\2.Tooth_data\4. C#\Study_C#\source\repos\ControlStatement\bin\Debug\net8.0\ControlStatement.dll
+C:\Users\fasol\Desktop\youda\2.Tooth_data\4. C#\Study_C#\source\repos\ControlStatement\bin\Debug\net8.0\ControlStatement.pdb
+C:\Users\fasol\Desktop\youda\2.Tooth_data\4. C#\Study_C#\source\repos\ControlStatement\obj\Debug\net8.0\ControlStatement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fasol\Desktop\youda\2.Tooth_data\4. C#\Study_C#\source\repos\ControlStatement\obj\Debug\net8.0\ControlStatement.AssemblyInfoInputs.cache
+C:\Users\fasol\Desktop\youda\2.Tooth_data\4. C#\Study_C#\source\repos\ControlStatement\obj\Debug\net8.0\ControlStatement.AssemblyInfo.cs
+C:\Users\fasol\Desktop\youda\2.Tooth_data\4. C#\Study_C#\source\repos\ControlStatement\obj\Debug\net8.0\ControlStatement.csproj.CoreCompileInputs.cache
+C:\Users\fasol\Desktop\youda\2.Tooth_data\4. C#\Study_C#\source\repos\ControlStatement\obj\Debug\net8.0\ControlStatement.sourcelink.json
+C:\Users\fasol\Desktop\youda\2.Tooth_data\4. C#\Study_C#\source\repos\ControlStatement\obj\Debug\net8.0\ControlStatement.dll
+C:\Users\fasol\Desktop\youda\2.Tooth_data\4. C#\Study_C#\source\repos\ControlStatement\obj\Debug\net8.0\refint\ControlStatement.dll
+C:\Users\fasol\Desktop\youda\2.Tooth_data\4. C#\Study_C#\source\repos\ControlStatement\obj\Debug\net8.0\ControlStatement.pdb
+C:\Users\fasol\Desktop\youda\2.Tooth_data\4. C#\Study_C#\source\repos\ControlStatement\obj\Debug\net8.0\ControlStatement.genruntimeconfig.cache
+C:\Users\fasol\Desktop\youda\2.Tooth_data\4. C#\Study_C#\source\repos\ControlStatement\obj\Debug\net8.0\ref\ControlStatement.dll
