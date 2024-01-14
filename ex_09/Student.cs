@@ -16,5 +16,9 @@ namespace ex_09
             Console.WriteLine("Student:"+this.ToString());
         }
 
+        public void examination()
+        {
+            Console.WriteLine("시험을 보는 학생입니다");
+        }
     }
 }

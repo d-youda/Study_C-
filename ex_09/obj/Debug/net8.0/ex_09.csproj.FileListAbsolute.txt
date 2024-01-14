@@ -25,3 +25,30 @@ C:\Users\fasol\Desktop\youda\2.Tooth_data\4. C#\Study_C#\source\repos\ex_09\obj\
 C:\Users\fasol\Desktop\youda\2.Tooth_data\4. C#\Study_C#\source\repos\ex_09\obj\Debug\net8.0\ex_09.pdb
 C:\Users\fasol\Desktop\youda\2.Tooth_data\4. C#\Study_C#\source\repos\ex_09\obj\Debug\net8.0\ex_09.genruntimeconfig.cache
 C:\Users\fasol\Desktop\youda\2.Tooth_data\4. C#\Study_C#\source\repos\ex_09\obj\Debug\net8.0\ref\ex_09.dll
+C:\Youda\Study_C-\ex_09\obj\Debug\net8.0\ex_09.csproj.AssemblyReference.cache
+C:\Youda\Study_C-\ex_09\obj\Debug\net8.0\ex_09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Youda\Study_C-\ex_09\obj\Debug\net8.0\ex_09.AssemblyInfoInputs.cache
+C:\Youda\Study_C-\ex_09\obj\Debug\net8.0\ex_09.AssemblyInfo.cs
+C:\Youda\Study_C-\ex_09\obj\Debug\net8.0\ex_09.csproj.CoreCompileInputs.cache
+C:\Youda\Study_C-\ex_09\obj\Debug\net8.0\ex_09.sourcelink.json
+C:\Youda\Study_C-\ex_09\obj\Debug\net8.0\ex_09.dll
+C:\Youda\Study_C-\ex_09\obj\Debug\net8.0\refint\ex_09.dll
+C:\Youda\Study_C-\ex_09\obj\Debug\net8.0\ex_09.pdb
+C:\Youda\Study_C-\ex_09\bin\Debug\net8.0\StudemtManagement.deps.json
+C:\Youda\Study_C-\ex_09\bin\Debug\net8.0\StudemtManagement.runtimeconfig.json
+C:\Youda\Study_C-\ex_09\bin\Debug\net8.0\StudentMgr.deps.json
+C:\Youda\Study_C-\ex_09\bin\Debug\net8.0\StudentMgr.runtimeconfig.json
+C:\Youda\Study_C-\ex_09\bin\Debug\net8.0\StudentMgr.exe
+C:\Youda\Study_C-\ex_09\bin\Debug\net8.0\StudemtManagement.exe
+C:\Youda\Study_C-\ex_09\bin\Debug\net8.0\ex_09.exe
+C:\Youda\Study_C-\ex_09\bin\Debug\net8.0\ex_09.deps.json
+C:\Youda\Study_C-\ex_09\bin\Debug\net8.0\ex_09.runtimeconfig.json
+C:\Youda\Study_C-\ex_09\bin\Debug\net8.0\ex_09.dll
+C:\Youda\Study_C-\ex_09\bin\Debug\net8.0\ex_09.pdb
+C:\Youda\Study_C-\ex_09\bin\Debug\net8.0\StudemtManagement.dll
+C:\Youda\Study_C-\ex_09\bin\Debug\net8.0\StudentMgr.dll
+C:\Youda\Study_C-\ex_09\bin\Debug\net8.0\StudemtManagement.pdb
+C:\Youda\Study_C-\ex_09\bin\Debug\net8.0\StudentMgr.pdb
+C:\Youda\Study_C-\ex_09\obj\Debug\net8.0\ex_09.csproj.CopyComplete
+C:\Youda\Study_C-\ex_09\obj\Debug\net8.0\ex_09.genruntimeconfig.cache
+C:\Youda\Study_C-\ex_09\obj\Debug\net8.0\ref\ex_09.dll

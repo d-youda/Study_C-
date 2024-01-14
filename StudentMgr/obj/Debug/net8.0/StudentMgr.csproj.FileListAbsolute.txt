@@ -27,3 +27,18 @@ C:\Users\fasol\Desktop\youda\2.Tooth_data\4. C#\Study_C#\source\repos\StudentMgr
 C:\Users\fasol\Desktop\youda\2.Tooth_data\4. C#\Study_C#\source\repos\StudentMgr\obj\Debug\net8.0\StudentMgr.genruntimeconfig.cache
 C:\Users\fasol\Desktop\youda\2.Tooth_data\4. C#\Study_C#\source\repos\StudentMgr\obj\Debug\net8.0\ref\StudentMgr.dll
 C:\Users\fasol\Desktop\youda\2.Tooth_data\4. C#\Study_C#\source\repos\StudentMgr\obj\Debug\net8.0\StudentMgr.sourcelink.json
+C:\Youda\Study_C-\StudentMgr\bin\Debug\net8.0\StudentMgr.exe
+C:\Youda\Study_C-\StudentMgr\bin\Debug\net8.0\StudentMgr.deps.json
+C:\Youda\Study_C-\StudentMgr\bin\Debug\net8.0\StudentMgr.runtimeconfig.json
+C:\Youda\Study_C-\StudentMgr\bin\Debug\net8.0\StudentMgr.dll
+C:\Youda\Study_C-\StudentMgr\bin\Debug\net8.0\StudentMgr.pdb
+C:\Youda\Study_C-\StudentMgr\obj\Debug\net8.0\StudentMgr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Youda\Study_C-\StudentMgr\obj\Debug\net8.0\StudentMgr.AssemblyInfoInputs.cache
+C:\Youda\Study_C-\StudentMgr\obj\Debug\net8.0\StudentMgr.AssemblyInfo.cs
+C:\Youda\Study_C-\StudentMgr\obj\Debug\net8.0\StudentMgr.csproj.CoreCompileInputs.cache
+C:\Youda\Study_C-\StudentMgr\obj\Debug\net8.0\StudentMgr.sourcelink.json
+C:\Youda\Study_C-\StudentMgr\obj\Debug\net8.0\StudentMgr.dll
+C:\Youda\Study_C-\StudentMgr\obj\Debug\net8.0\refint\StudentMgr.dll
+C:\Youda\Study_C-\StudentMgr\obj\Debug\net8.0\StudentMgr.pdb
+C:\Youda\Study_C-\StudentMgr\obj\Debug\net8.0\StudentMgr.genruntimeconfig.cache
+C:\Youda\Study_C-\StudentMgr\obj\Debug\net8.0\ref\StudentMgr.dll

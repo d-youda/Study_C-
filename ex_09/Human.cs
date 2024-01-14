@@ -17,11 +17,11 @@ namespace ex_09
         }
         public void Drawing()
         {
-
+            Console.WriteLine("I draw a picture");
         }
         public void Study()
         {
-
+            Console.WriteLine("I'm studying C# programming");
         }
     }
 }

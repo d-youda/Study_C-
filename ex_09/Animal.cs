@@ -14,14 +14,16 @@ namespace ex_09
 
         public void Sleep()
         {
+            System.Console.WriteLine("I'm sleep now"); 
         }
         public void Eat()
         {
 
+            System.Console.WriteLine("I'm eating banana");
         }
         public void Walk()
         {
-
+            System.Console.WriteLine("I'm walking int  the street");
         }
     }
 }
